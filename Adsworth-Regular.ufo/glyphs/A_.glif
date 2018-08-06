@@ -11,11 +11,15 @@
     </contour>
     <contour>
       <point x="670" y="1500" type="line"/>
+      <point x="988" y="564" type="line"/>
       <point x="1180" y="0" type="line"/>
       <point x="1013" y="0" type="line"/>
+      <point x="861" y="461" type="line"/>
       <point x="590" y="1285" type="line"/>
+      <point x="314" y="460" type="line"/>
       <point x="160" y="0" type="line"/>
       <point x="0" y="0" type="line"/>
+      <point x="192" y="564" type="line"/>
       <point x="510" y="1500" type="line"/>
     </contour>
   </outline>
