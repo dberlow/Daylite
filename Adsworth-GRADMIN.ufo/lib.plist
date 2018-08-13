@@ -239,6 +239,38 @@
 		<string>E.copy_1</string>
 		<string>F.copy_1</string>
 		<string>H.copy_1</string>
+		<string>exclam.copy_1</string>
+		<string>quotedbl.copy_1</string>
+		<string>numbersign.copy_1</string>
+		<string>dollar.copy_1</string>
+		<string>percent.copy_1</string>
+		<string>ampersand.copy_1</string>
+		<string>quotesingle.copy_1</string>
+		<string>parenleft.copy_1</string>
+		<string>parenright.copy_1</string>
+		<string>asterisk.copy_1</string>
+		<string>plus.copy_1</string>
+		<string>comma.copy_1</string>
+		<string>hyphen.copy_1</string>
+		<string>period.copy_1</string>
+		<string>slash.copy_1</string>
+		<string>colon.copy_1</string>
+		<string>semicolon.copy_1</string>
+		<string>less.copy_1</string>
+		<string>equal.copy_1</string>
+		<string>greater.copy_1</string>
+		<string>question.copy_1</string>
+		<string>at.copy_1</string>
+		<string>bracketleft.copy_1</string>
+		<string>backslash.copy_1</string>
+		<string>bracketright.copy_1</string>
+		<string>asciicircum.copy_1</string>
+		<string>underscore.copy_1</string>
+		<string>grave.copy_1</string>
+		<string>braceleft.copy_1</string>
+		<string>bar.copy_1</string>
+		<string>braceright.copy_1</string>
+		<string>asciitilde.copy_1</string>
 	</array>
 </dict>
 </plist>

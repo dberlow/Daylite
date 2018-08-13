@@ -2,7 +2,13 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>asterisk</key>
+	<string>asterisk.glif</string>
 	<key>d</key>
 	<string>d.glif</string>
+	<key>equal</key>
+	<string>equal.glif</string>
+	<key>plus</key>
+	<string>plus.glif</string>
 </dict>
 </plist>
