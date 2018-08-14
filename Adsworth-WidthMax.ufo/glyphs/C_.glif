@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="C" format="2">
   <advance width="1905"/>
   <unicode hex="0043"/>
@@ -44,8 +43,8 @@
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2018-07-27 09:25:18 +0000</string>
-    </dict>
+	<key>com.schriftgestaltung.Glyphs.lastChange</key>
+	<string>2018-07-27 09:25:18 +0000</string>
+</dict>
   </lib>
 </glyph>
