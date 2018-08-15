@@ -1,0 +1,22 @@
+<glyph name="M" format="2">
+  <advance width="2205"/>
+  <unicode hex="004D"/>
+  <outline>
+    <contour>
+      <point x="220" y="0" type="line"/>
+      <point x="220" y="1500" type="line"/>
+      <point x="615" y="1500" type="line"/>
+      <point x="1092" y="364" type="line"/>
+      <point x="1105" y="364" type="line"/>
+      <point x="1588" y="1500" type="line"/>
+      <point x="1985" y="1500" type="line"/>
+      <point x="1985" y="0" type="line"/>
+      <point x="1710" y="0" type="line"/>
+      <point x="1710" y="1175" type="line"/>
+      <point x="1228" y="0" type="line"/>
+      <point x="968" y="0" type="line"/>
+      <point x="490" y="1156" type="line"/>
+      <point x="490" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>
