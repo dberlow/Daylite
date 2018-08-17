@@ -1,0 +1,20 @@
+<glyph name="x" format="2">
+  <advance width="500"/>
+  <unicode hex="0078"/>
+  <anchor x="0" y="100" name="LSB"/>
+  <anchor x="905" y="100" name="RSB"/>
+  <outline>
+    <contour>
+      <point x="-10" y="1" type="line"/>
+      <point x="718" y="1041" type="line"/>
+      <point x="905" y="1041" type="line"/>
+      <point x="177" y="1" type="line"/>
+    </contour>
+    <contour>
+      <point x="719" y="1" type="line"/>
+      <point x="22" y="1041" type="line"/>
+      <point x="219" y="1041" type="line"/>
+      <point x="915" y="1" type="line"/>
+    </contour>
+  </outline>
+</glyph>

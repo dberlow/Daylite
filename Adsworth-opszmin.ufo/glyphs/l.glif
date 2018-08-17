@@ -1,20 +1,20 @@
 <glyph name="l" format="2">
-  <advance width="572"/>
+  <advance width="729"/>
   <unicode hex="006C"/>
   <outline>
     <contour>
-      <point x="148" y="200" type="qcurve" smooth="yes"/>
-      <point x="148" y="1500" type="line"/>
-      <point x="308" y="1500" type="line"/>
-      <point x="308" y="0" type="line"/>
-      <point x="240" y="0"/>
-      <point x="148.0" y="109.0"/>
+      <point x="170" y="256" type="qcurve" smooth="yes"/>
+      <point x="180" y="1539" type="line"/>
+      <point x="470" y="1539" type="line"/>
+      <point x="470" y="1" type="line"/>
+      <point x="327" y="1"/>
+      <point x="169" y="149"/>
     </contour>
     <contour>
-      <point x="547" y="20" type="line"/>
-      <point x="306" y="0" type="line"/>
-      <point x="246" y="135" type="line"/>
-      <point x="547" y="145" type="line"/>
+      <point x="720" y="34" type="line"/>
+      <point x="470" y="1" type="line"/>
+      <point x="222" y="225" type="line"/>
+      <point x="720" y="270" type="line"/>
     </contour>
   </outline>
 </glyph>
