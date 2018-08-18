@@ -1,18 +1,18 @@
 <glyph name="x" format="2">
-  <advance width="870"/>
+  <advance width="800"/>
   <unicode hex="0078"/>
   <outline>
     <contour>
       <point x="-10" y="0" type="line"/>
-      <point x="690" y="1000" type="line"/>
-      <point x="870" y="1000" type="line"/>
-      <point x="170" y="0" type="line"/>
+      <point x="676" y="980" type="line"/>
+      <point x="780" y="980" type="line"/>
+      <point x="94" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="691" y="0" type="line"/>
-      <point x="21" y="1000" type="line"/>
-      <point x="211" y="1000" type="line"/>
-      <point x="880" y="0" type="line"/>
+      <point x="704" y="0" type="line"/>
+      <point x="41" y="980" type="line"/>
+      <point x="146" y="980" type="line"/>
+      <point x="810" y="0" type="line"/>
     </contour>
   </outline>
 </glyph>
