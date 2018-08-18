@@ -1,0 +1,8 @@
+<glyph name="p" format="2">
+  <advance width="500"/>
+  <unicode hex="0070"/>
+  <anchor x="347.5" y="100" name="LSB"/>
+  <anchor x="837.5" y="100" name="RSB"/>
+  <outline>
+  </outline>
+</glyph>

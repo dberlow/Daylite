@@ -1,0 +1,50 @@
+<glyph name="b" format="2">
+  <advance width="500"/>
+  <unicode hex="0062"/>
+  <anchor x="347.5" y="100" name="LSB"/>
+  <anchor x="837.5" y="100" name="RSB"/>
+  <outline>
+    <contour>
+      <point x="532.5" y="0" type="line"/>
+      <point x="532.5" y="1546" type="line"/>
+      <point x="612.5" y="1546" type="line"/>
+      <point x="612.5" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="591.5" y="521" type="line" smooth="yes"/>
+      <point x="591.5" y="750"/>
+      <point x="812.5" y="1044"/>
+      <point x="980.5" y="1044" type="qcurve" smooth="yes"/>
+      <point x="987.5" y="1044" type="line" smooth="yes"/>
+      <point x="1174.5" y="1044"/>
+      <point x="1411.5" y="749"/>
+      <point x="1411.5" y="521" type="qcurve" smooth="yes"/>
+      <point x="1411.5" y="483" type="line" smooth="yes"/>
+      <point x="1411.5" y="255"/>
+      <point x="1169.5" y="-27"/>
+      <point x="981.5" y="-27" type="qcurve" smooth="yes"/>
+      <point x="974.5" y="-27" type="line" smooth="yes"/>
+      <point x="806.5" y="-27"/>
+      <point x="591.5" y="254"/>
+      <point x="591.5" y="483" type="qcurve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="591.5" y="515" type="qcurve" smooth="yes"/>
+      <point x="591.5" y="486" type="line" smooth="yes"/>
+      <point x="591.5" y="270"/>
+      <point x="795.5" y="23"/>
+      <point x="960.5" y="23" type="qcurve" smooth="yes"/>
+      <point x="967.5" y="23" type="line" smooth="yes"/>
+      <point x="1140.5" y="23"/>
+      <point x="1323.5" y="282"/>
+      <point x="1323.5" y="486" type="qcurve" smooth="yes"/>
+      <point x="1323.5" y="515" type="line" smooth="yes"/>
+      <point x="1323.5" y="718"/>
+      <point x="1154.5" y="987"/>
+      <point x="977.5" y="987" type="qcurve" smooth="yes"/>
+      <point x="970.5" y="987" type="line" smooth="yes"/>
+      <point x="810.5" y="987"/>
+      <point x="591.5" y="779"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,29 @@
+<glyph name="k" format="2">
+  <advance width="500"/>
+  <unicode hex="006B"/>
+  <anchor x="224.0" y="100" name="LSB"/>
+  <anchor x="714.0" y="100" name="RSB"/>
+  <outline>
+    <contour>
+      <point x="409.0" y="0" type="line"/>
+      <point x="409.0" y="1546" type="line"/>
+      <point x="489.0" y="1546" type="line"/>
+      <point x="489.0" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="630.0" y="548" type="line"/>
+      <point x="566.0" y="485" type="line"/>
+      <point x="566.0" y="517" type="line"/>
+      <point x="671.0" y="647" type="line"/>
+      <point x="951.0" y="997" type="line"/>
+      <point x="1025.0" y="997" type="line"/>
+      <point x="691.0" y="596" type="line"/>
+    </contour>
+    <contour>
+      <point x="712.0" y="580" type="line"/>
+      <point x="1098.0" y="0" type="line"/>
+      <point x="1011.0" y="0" type="line"/>
+      <point x="656.0" y="531" type="line"/>
+    </contour>
+  </outline>
+</glyph>

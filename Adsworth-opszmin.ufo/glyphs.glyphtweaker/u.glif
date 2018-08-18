@@ -1,32 +1,7 @@
 <glyph name="u" format="2">
   <advance width="500"/>
-  <unicode hex="0075"/>
-  <anchor x="365.5" y="100" name="LSB"/>
-  <anchor x="865.5" y="100" name="RSB"/>
+  <anchor x="366.0" y="100" name="LSB"/>
+  <anchor x="866.0" y="100" name="RSB"/>
   <outline>
-    <contour>
-      <point x="1497.5" y="1044" type="line"/>
-      <point x="1497.5" y="4" type="line"/>
-      <point x="1217.5" y="4" type="line"/>
-      <point x="1217.5" y="1044" type="line"/>
-    </contour>
-    <contour>
-      <point x="1388.5" y="221" type="line"/>
-      <point x="1311.5" y="114"/>
-      <point x="1068.5" y="-37"/>
-      <point x="904.5" y="-37" type="qcurve" smooth="yes"/>
-      <point x="702.5" y="-37"/>
-      <point x="458.5" y="153"/>
-      <point x="458.5" y="321" type="qcurve" smooth="yes"/>
-      <point x="458.5" y="1044" type="line"/>
-      <point x="738.5" y="1044" type="line"/>
-      <point x="738.5" y="361" type="line" smooth="yes"/>
-      <point x="738.5" y="233"/>
-      <point x="820.5" y="139"/>
-      <point x="904.5" y="139" type="qcurve" smooth="yes"/>
-      <point x="1007.5" y="139"/>
-      <point x="1187.5" y="259"/>
-      <point x="1349.5" y="433" type="qcurve"/>
-    </contour>
   </outline>
 </glyph>
