@@ -1,12 +1,12 @@
 <glyph name="one" format="2">
-  <advance width="584"/>
+  <advance width="422"/>
   <unicode hex="0031"/>
   <outline>
     <contour>
-      <point x="212" y="0" type="line"/>
-      <point x="212" y="1500" type="line"/>
-      <point x="372" y="1500" type="line"/>
-      <point x="372" y="0" type="line"/>
+      <point x="166" y="0" type="line"/>
+      <point x="166" y="1500" type="line"/>
+      <point x="256" y="1500" type="line"/>
+      <point x="256" y="0" type="line"/>
     </contour>
   </outline>
 </glyph>
