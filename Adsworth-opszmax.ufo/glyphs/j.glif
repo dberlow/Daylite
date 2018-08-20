@@ -21,12 +21,6 @@
       <point x="252" y="980" type="line"/>
     </contour>
     <contour>
-      <point x="214" y="845" type="line"/>
-      <point x="204" y="845" type="line"/>
-      <point x="204" y="980" type="line"/>
-      <point x="214" y="980" type="line"/>
-    </contour>
-    <contour>
       <point x="209" y="1240" type="line" smooth="yes"/>
       <point x="243" y="1240"/>
       <point x="282" y="1279"/>
@@ -43,6 +37,12 @@
       <point x="138" y="1279"/>
       <point x="175" y="1240"/>
       <point x="208" y="1240" type="qcurve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="214" y="845" type="line"/>
+      <point x="204" y="845" type="line"/>
+      <point x="204" y="980" type="line"/>
+      <point x="214" y="980" type="line"/>
     </contour>
   </outline>
 </glyph>

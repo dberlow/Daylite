@@ -3,10 +3,10 @@
   <unicode hex="0071"/>
   <outline>
     <contour>
+      <point x="973" y="-500" type="line"/>
       <point x="887" y="-500" type="line"/>
       <point x="887" y="980" type="line"/>
       <point x="973" y="980" type="line"/>
-      <point x="973" y="-500" type="line"/>
     </contour>
     <contour>
       <point x="936" y="492" type="qcurve" smooth="yes"/>
