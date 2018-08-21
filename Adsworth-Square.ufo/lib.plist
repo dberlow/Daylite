@@ -234,11 +234,15 @@
 		<string>quoteleft</string>
 		<string>quoteright</string>
 		<string>minus</string>
-		<string>C.copy_1</string>
-		<string>D.copy_1</string>
-		<string>E.copy_1</string>
-		<string>F.copy_1</string>
-		<string>H.copy_1</string>
+		<string>A.salt</string>
+		<string>K.salt</string>
+		<string>M.salt</string>
+		<string>N.salt</string>
+		<string>R.salt</string>
+		<string>V.salt</string>
+		<string>W.salt</string>
+		<string>Y.salt</string>
+		<string>k.salt</string>
 	</array>
 </dict>
 </plist>

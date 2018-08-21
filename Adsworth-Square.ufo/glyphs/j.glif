@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="j" format="2">
   <advance width="475"/>
   <unicode hex="006A"/>
@@ -38,6 +37,12 @@
       <point x="135" y="1220"/>
       <point x="135" y="1220"/>
       <point x="231" y="1220" type="qcurve"/>
+    </contour>
+    <contour>
+      <point x="257" y="865" type="line"/>
+      <point x="197" y="865" type="line"/>
+      <point x="197" y="1000" type="line"/>
+      <point x="257" y="1000" type="line"/>
     </contour>
   </outline>
 </glyph>

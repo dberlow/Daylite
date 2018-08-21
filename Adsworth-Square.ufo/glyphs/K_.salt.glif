@@ -1,0 +1,28 @@
+<glyph name="K.salt" format="2">
+  <advance width="1281"/>
+  <outline>
+    <contour>
+      <point x="192" y="0" type="line"/>
+      <point x="192" y="1500" type="line"/>
+      <point x="352" y="1500" type="line"/>
+      <point x="352" y="874" type="line"/>
+      <point x="622" y="874" type="line"/>
+      <point x="906" y="1189" type="line"/>
+      <point x="906" y="1500" type="line"/>
+      <point x="1071" y="1500" type="line"/>
+      <point x="1071" y="1150" type="line"/>
+      <point x="784" y="835" type="line"/>
+      <point x="689" y="723" type="line"/>
+      <point x="352" y="719" type="line"/>
+      <point x="352" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="663" y="744" type="line"/>
+      <point x="777" y="877" type="line"/>
+      <point x="1195" y="566" type="line"/>
+      <point x="1195" y="0" type="line"/>
+      <point x="1030" y="0" type="line"/>
+      <point x="1030" y="484" type="line"/>
+    </contour>
+  </outline>
+</glyph>

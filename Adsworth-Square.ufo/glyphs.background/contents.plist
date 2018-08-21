@@ -4,5 +4,11 @@
 <dict>
 	<key>a</key>
 	<string>a.glif</string>
+	<key>asterisk</key>
+	<string>asterisk.glif</string>
+	<key>equal</key>
+	<string>equal.glif</string>
+	<key>plus</key>
+	<string>plus.glif</string>
 </dict>
 </plist>
