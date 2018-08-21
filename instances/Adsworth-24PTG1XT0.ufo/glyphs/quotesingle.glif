@@ -1,0 +1,11 @@
+<glyph name="quotesingle" format="2">
+  <advance width="421.0"/>
+  <outline>
+    <contour>
+      <point x="14.0" y="862.0" type="line"/>
+      <point x="14.0" y="1500.0" type="line"/>
+      <point x="407.0" y="1500.0" type="line"/>
+      <point x="407.0" y="862.0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

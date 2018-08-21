@@ -12,49 +12,51 @@
         </axis>
     </axes>
     <sources>
-        <source familyname="Adsworth" filename="Adsworth-XTRAmax.ufo" stylename="XTRAmax">
+        <source familyname="Adsworth" filename="Sources/Adsworth-XTRAmax.ufo" stylename="XTRAmax">
             <location>
                 <dimension name="optical size" xvalue="24" />
                 <dimension name="grade" xvalue="80" />
                 <dimension name="x transparent" xvalue="635" />
             </location>
         </source>
-        <source familyname="Adsworth" filename="Adsworth-XTRAmin.ufo" stylename="XTRAmin">
+        <source familyname="Adsworth" filename="Sources/Adsworth-XTRAmin.ufo" stylename="XTRAmin">
             <location>
                 <dimension name="optical size" xvalue="24" />
                 <dimension name="grade" xvalue="80" />
                 <dimension name="x transparent" xvalue="220" />
             </location>
         </source>
-        <source familyname="Adsworth" filename="Adsworth-Regular.ufo" stylename="Regular">
+        <source familyname="Adsworth" filename="Sources/Adsworth-Regular.ufo" stylename="Regular">
             <location>
                 <dimension name="optical size" xvalue="24" />
                 <dimension name="grade" xvalue="80" />
                 <dimension name="x transparent" xvalue="450" />
             </location>
+            <info copy="1" />
+
         </source>
-        <source familyname="Adsworth" filename="Adsworth-GRADmin.ufo" stylename="GRADmin">
+        <source familyname="Adsworth" filename="Sources/Adsworth-GRADmin.ufo" stylename="GRADmin">
             <location>
                 <dimension name="optical size" xvalue="24" />
                 <dimension name="grade" xvalue="20" />
                 <dimension name="x transparent" xvalue="450" />
             </location>
         </source>
-        <source familyname="Adsworth" filename="Adsworth-GRADmax.ufo" stylename="GRADmax">
+        <source familyname="Adsworth" filename="Sources/Adsworth-GRADmax.ufo" stylename="GRADmax">
             <location>
                 <dimension name="optical size" xvalue="24" />
                 <dimension name="grade" xvalue="240" />
                 <dimension name="x transparent" xvalue="450" />
             </location>
         </source>
-        <source familyname="Adsworth" filename="Adsworth-opszmax.ufo" stylename="opszmax">
+        <source familyname="Adsworth" filename="Sources/Adsworth-opszmax.ufo" stylename="opszmax">
             <location>
                 <dimension name="optical size" xvalue="72" />
                 <dimension name="grade" xvalue="80" />
                 <dimension name="x transparent" xvalue="450" />
             </location>
         </source>
-        <source familyname="Adsworth" filename="Adsworth-opszmin.ufo" stylename="opszmin">
+        <source familyname="Adsworth" filename="Sources/Adsworth-opszmin.ufo" stylename="opszmin">
             <location>
                 <dimension name="optical size" xvalue="8" />
                 <dimension name="grade" xvalue="80" />

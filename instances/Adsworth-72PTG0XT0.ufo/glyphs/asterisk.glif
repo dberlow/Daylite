@@ -1,0 +1,22 @@
+<glyph name="asterisk" format="2">
+  <advance width="524.0"/>
+  <outline>
+    <contour>
+      <point x="292.0" y="1319.0" type="line"/>
+      <point x="143.0" y="1082.0" type="line"/>
+      <point x="124.0" y="1072.0" type="line"/>
+      <point x="309.0" y="1301.0" type="line"/>
+      <point x="123.0" y="1411.0" type="line"/>
+      <point x="156.0" y="1411.0" type="line"/>
+      <point x="300.0" y="1294.0" type="line"/>
+      <point x="298.0" y="1568.0" type="line"/>
+      <point x="290.0" y="1568.0" type="line"/>
+      <point x="287.0" y="1294.0" type="line"/>
+      <point x="438.0" y="1411.0" type="line"/>
+      <point x="466.0" y="1408.0" type="line"/>
+      <point x="276.0" y="1304.0" type="line"/>
+      <point x="470.0" y="1082.0" type="line"/>
+      <point x="446.0" y="1083.0" type="line"/>
+    </contour>
+  </outline>
+</glyph>
