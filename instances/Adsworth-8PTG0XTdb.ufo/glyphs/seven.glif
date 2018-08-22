@@ -1,0 +1,14 @@
+<glyph name="seven" format="2">
+  <advance width="926"/>
+  <outline>
+    <contour>
+      <point x="-22.0" y="1500.0" type="line"/>
+      <point x="881.0" y="1500.0" type="line"/>
+      <point x="884.0" y="1347.0" type="line"/>
+      <point x="414.0" y="0.0" type="line"/>
+      <point x="229.0" y="0.0" type="line"/>
+      <point x="721.0" y="1355.0" type="line"/>
+      <point x="-21.0" y="1355.0" type="line"/>
+    </contour>
+  </outline>
+</glyph>
