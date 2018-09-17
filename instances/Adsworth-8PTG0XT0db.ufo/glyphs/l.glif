@@ -1,19 +1,19 @@
 <glyph name="l" format="2">
-  <advance width="527"/>
+  <advance width="548"/>
   <outline>
     <contour>
       <point x="152" y="86" type="qcurve" smooth="yes"/>
-      <point x="136" y="1539" type="line"/>
-      <point x="316" y="1539" type="line"/>
-      <point x="336" y="0" type="line"/>
-      <point x="222" y="-21"/>
-      <point x="153" y="26"/>
+      <point x="156" y="1539" type="line"/>
+      <point x="344" y="1539" type="line"/>
+      <point x="344" y="10" type="line"/>
+      <point x="253.0" y="-26"/>
+      <point x="152" y="17"/>
     </contour>
     <contour>
-      <point x="527" y="68" type="line"/>
-      <point x="336" y="0" type="line"/>
-      <point x="174" y="153" type="line"/>
-      <point x="524" y="208" type="line"/>
+      <point x="555" y="68" type="line"/>
+      <point x="316" y="0" type="line"/>
+      <point x="184" y="143" type="line"/>
+      <point x="552" y="188" type="line"/>
     </contour>
   </outline>
 </glyph>
