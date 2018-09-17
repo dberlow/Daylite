@@ -1,0 +1,29 @@
+<glyph name="E" format="2">
+  <advance width="1414"/>
+  <outline>
+    <contour>
+      <point x="288" y="0" type="line"/>
+      <point x="288" y="1500" type="line"/>
+      <point x="484" y="1500" type="line"/>
+      <point x="484" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1274" y="724" type="line"/>
+      <point x="364" y="724" type="line"/>
+      <point x="364" y="877" type="line"/>
+      <point x="1274" y="877" type="line"/>
+    </contour>
+    <contour>
+      <point x="1434" y="1347" type="line"/>
+      <point x="364" y="1347" type="line"/>
+      <point x="364" y="1500" type="line"/>
+      <point x="1434" y="1500" type="line"/>
+    </contour>
+    <contour>
+      <point x="1434" y="0" type="line"/>
+      <point x="364" y="0" type="line"/>
+      <point x="364" y="151" type="line"/>
+      <point x="1434" y="151" type="line"/>
+    </contour>
+  </outline>
+</glyph>

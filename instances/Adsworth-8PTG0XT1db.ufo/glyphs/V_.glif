@@ -1,0 +1,14 @@
+<glyph name="V" format="2">
+  <advance width="1691"/>
+  <outline>
+    <contour>
+      <point x="726" y="0" type="line"/>
+      <point x="-10" y="1500" type="line"/>
+      <point x="201" y="1500" type="line"/>
+      <point x="845" y="182" type="line"/>
+      <point x="1489" y="1500" type="line"/>
+      <point x="1701" y="1500" type="line"/>
+      <point x="952" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>
