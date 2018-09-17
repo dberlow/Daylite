@@ -1,0 +1,17 @@
+<glyph name="T" format="2">
+  <advance width="1188.0"/>
+  <outline>
+    <contour>
+      <point x="506.0" y="0.0" type="line"/>
+      <point x="506.0" y="1480.0" type="line"/>
+      <point x="698.0" y="1480.0" type="line"/>
+      <point x="698.0" y="0.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1172.0" y="1360.0" type="line"/>
+      <point x="16.0" y="1360.0" type="line"/>
+      <point x="16.0" y="1500.0" type="line"/>
+      <point x="1172.0" y="1500.0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

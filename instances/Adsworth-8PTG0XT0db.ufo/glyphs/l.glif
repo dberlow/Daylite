@@ -1,0 +1,19 @@
+<glyph name="l" format="2">
+  <advance width="496"/>
+  <outline>
+    <contour>
+      <point x="152.0" y="16.0" type="qcurve" smooth="yes"/>
+      <point x="162.0" y="1539.0" type="line"/>
+      <point x="326.0" y="1539.0" type="line"/>
+      <point x="346.0" y="1.0" type="line"/>
+      <point x="217.0" y="-3.0"/>
+      <point x="151.0" y="2.0"/>
+    </contour>
+    <contour>
+      <point x="415.0" y="94.0" type="line"/>
+      <point x="275.0" y="10.0" type="line"/>
+      <point x="57.0" y="154.0" type="line"/>
+      <point x="412.0" y="234.0" type="line"/>
+    </contour>
+  </outline>
+</glyph>
