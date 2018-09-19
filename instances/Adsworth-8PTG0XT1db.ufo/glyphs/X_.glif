@@ -1,25 +1,25 @@
 <glyph name="X" format="2">
-  <advance width="1584"/>
+  <advance width="1588"/>
   <outline>
     <contour>
-      <point x="42.0" y="0.0" type="line"/>
-      <point x="713.0" y="845.0" type="line"/>
-      <point x="768.0" y="851.0" type="line"/>
-      <point x="1266.0" y="1500.0" type="line"/>
-      <point x="1502.0" y="1500.0" type="line"/>
-      <point x="876.0" y="707.0" type="line"/>
-      <point x="814.0" y="692.0" type="line"/>
-      <point x="278.0" y="0.0" type="line"/>
+      <point x="24" y="0" type="line"/>
+      <point x="725" y="845" type="line"/>
+      <point x="770" y="851" type="line"/>
+      <point x="1288" y="1500" type="line"/>
+      <point x="1524" y="1500" type="line"/>
+      <point x="858" y="707" type="line"/>
+      <point x="816" y="692" type="line"/>
+      <point x="260" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="1272.0" y="0.0" type="line"/>
-      <point x="723.0" y="696.0" type="line"/>
-      <point x="717.0" y="684.0" type="line"/>
-      <point x="63.0" y="1500.0" type="line"/>
-      <point x="330.0" y="1500.0" type="line"/>
-      <point x="842.0" y="847.0" type="line"/>
-      <point x="843.0" y="866.0" type="line"/>
-      <point x="1542.0" y="0.0" type="line"/>
+      <point x="1304" y="0" type="line"/>
+      <point x="745" y="674" type="line"/>
+      <point x="708" y="721" type="line"/>
+      <point x="65" y="1500" type="line"/>
+      <point x="312" y="1500" type="line"/>
+      <point x="850" y="859" type="line"/>
+      <point x="874" y="829" type="line"/>
+      <point x="1564" y="0" type="line"/>
     </contour>
   </outline>
 </glyph>

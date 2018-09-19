@@ -3,17 +3,17 @@
   <outline>
     <contour>
       <point x="468.0" y="-9.0" type="line"/>
-      <point x="0.0" y="1041.0" type="line"/>
-      <point x="159.0" y="1041.0" type="line"/>
-      <point x="605.0" y="172.0" type="line"/>
-      <point x="962.0" y="1051.0" type="line"/>
-      <point x="1169.0" y="1051.0" type="line"/>
-      <point x="1529.0" y="172.0" type="line"/>
-      <point x="1955.0" y="1041.0" type="line"/>
-      <point x="2082.0" y="1041.0" type="line"/>
+      <point x="0.0" y="1040.0" type="line"/>
+      <point x="189.0" y="1040.0" type="line"/>
+      <point x="581.0" y="130.0" type="line"/>
+      <point x="944.0" y="1041.0" type="line"/>
+      <point x="1169.0" y="1041.0" type="line"/>
+      <point x="1528.0" y="130.0" type="line"/>
+      <point x="1915.0" y="1040.0" type="line"/>
+      <point x="2082.0" y="1040.0" type="line"/>
       <point x="1620.0" y="-9.0" type="line"/>
       <point x="1414.0" y="-9.0" type="line"/>
-      <point x="1052.0" y="950.0" type="line"/>
+      <point x="1046.0" y="918.0" type="line"/>
       <point x="675.0" y="-9.0" type="line"/>
     </contour>
   </outline>
