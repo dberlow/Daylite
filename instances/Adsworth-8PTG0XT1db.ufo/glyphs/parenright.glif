@@ -4,8 +4,8 @@
     <contour>
       <point x="203.0" y="-357.0" type="qcurve"/>
       <point x="116.0" y="-199.0" type="line"/>
-      <point x="749.0" y="170.0"/>
-      <point x="799.0" y="1000.0"/>
+      <point x="718.0" y="149.0"/>
+      <point x="768.0" y="1020.0"/>
       <point x="139.0" y="1389.0" type="qcurve"/>
       <point x="219.0" y="1551.0" type="line"/>
       <point x="926.0" y="1150.0"/>

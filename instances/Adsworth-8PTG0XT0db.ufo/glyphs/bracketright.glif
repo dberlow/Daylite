@@ -4,8 +4,8 @@
     <contour>
       <point x="412.0" y="-280.0" type="line"/>
       <point x="232.0" y="-280.0" type="line"/>
-      <point x="232.0" y="1540.0" type="line"/>
-      <point x="412.0" y="1540.0" type="line"/>
+      <point x="232.0" y="1500.0" type="line"/>
+      <point x="412.0" y="1500.0" type="line"/>
     </contour>
     <contour>
       <point x="50.0" y="-280.0" type="line"/>
@@ -14,10 +14,10 @@
       <point x="287.0" y="-280.0" type="line"/>
     </contour>
     <contour>
-      <point x="50.0" y="1402.0" type="line"/>
-      <point x="50.0" y="1540.0" type="line"/>
-      <point x="292.0" y="1540.0" type="line"/>
-      <point x="292.0" y="1402.0" type="line"/>
+      <point x="50.0" y="1362.0" type="line"/>
+      <point x="50.0" y="1500.0" type="line"/>
+      <point x="292.0" y="1500.0" type="line"/>
+      <point x="292.0" y="1362.0" type="line"/>
     </contour>
   </outline>
 </glyph>
