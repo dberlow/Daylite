@@ -1,0 +1,11 @@
+<glyph name="bar" format="2">
+  <advance width="1130"/>
+  <outline>
+    <contour>
+      <point x="310.0" y="-500.0" type="line"/>
+      <point x="310.0" y="1500.0" type="line"/>
+      <point x="820.0" y="1500.0" type="line"/>
+      <point x="820.0" y="-500.0" type="line"/>
+    </contour>
+  </outline>
+</glyph>
