@@ -2,19 +2,19 @@
   <advance width="2082"/>
   <outline>
     <contour>
-      <point x="388.0" y="1.0" type="line"/>
+      <point x="348.0" y="1.0" type="line"/>
       <point x="-60.0" y="1041.0" type="line"/>
       <point x="425.0" y="1041.0" type="line"/>
-      <point x="681.0" y="688.0" type="line"/>
+      <point x="621.0" y="468.0" type="line"/>
       <point x="818.0" y="1041.0" type="line"/>
       <point x="1310.0" y="1041.0" type="line"/>
-      <point x="1469.0" y="688.0" type="line"/>
+      <point x="1509.0" y="468.0" type="line"/>
       <point x="1697.0" y="1041.0" type="line"/>
       <point x="2142.0" y="1041.0" type="line"/>
-      <point x="1710.0" y="1.0" type="line"/>
-      <point x="1210.0" y="1.0" type="line"/>
-      <point x="1048.0" y="461.0" type="line"/>
-      <point x="889.0" y="1.0" type="line"/>
+      <point x="1750.0" y="1.0" type="line"/>
+      <point x="1250.0" y="1.0" type="line"/>
+      <point x="1048.0" y="521.0" type="line"/>
+      <point x="849.0" y="1.0" type="line"/>
     </contour>
   </outline>
 </glyph>
