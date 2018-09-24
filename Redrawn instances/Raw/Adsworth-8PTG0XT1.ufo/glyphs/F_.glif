@@ -1,0 +1,23 @@
+<glyph name="F" format="2">
+  <advance width="1357"/>
+  <outline>
+    <contour>
+      <point x="288" y="0" type="line"/>
+      <point x="288" y="1500" type="line"/>
+      <point x="483" y="1500" type="line"/>
+      <point x="483" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1119" y="695" type="line"/>
+      <point x="409" y="695" type="line"/>
+      <point x="409" y="836" type="line"/>
+      <point x="1119" y="836" type="line"/>
+    </contour>
+    <contour>
+      <point x="1309" y="1357" type="line"/>
+      <point x="409" y="1357" type="line"/>
+      <point x="409" y="1500" type="line"/>
+      <point x="1309" y="1500" type="line"/>
+    </contour>
+  </outline>
+</glyph>

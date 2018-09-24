@@ -1,0 +1,148 @@
+<?xml version='1.0' encoding='utf-8'?>
+<designspace format="4.0">
+    <axes>
+        <axis default="24" maximum="72" minimum="8" name="opsz" tag="opsz">
+            <labelname xml:lang="en">opsz</labelname>
+        </axis>
+        <axis default="80" maximum="240" minimum="20" name="grad" tag="GRAD">
+            <labelname xml:lang="en">grade</labelname>
+        </axis>
+        <axis default="450" maximum="635" minimum="220" name="xtra" tag="XTRA">
+            <labelname xml:lang="en">xtra</labelname>
+        </axis>
+    </axes>
+    <sources>
+        <source familyname="Adsworth" filename="Adsworth-XTRAmax.ufo" stylename="XTRAmax">
+            <location>
+                <dimension name="opsz" xvalue="24" />
+                <dimension name="grad" xvalue="80" />
+                <dimension name="xtra" xvalue="635" />
+            </location>
+        </source>
+        <source familyname="Adsworth" filename="Adsworth-XTRAmin.ufo" stylename="XTRAmin">
+            <location>
+                <dimension name="opsz" xvalue="24" />
+                <dimension name="grad" xvalue="80" />
+                <dimension name="xtra" xvalue="220" />
+            </location>
+        </source>
+        <source familyname="Adsworth" filename="Adsworth-Regular.ufo" stylename="Regular">
+            <location>
+                <dimension name="opsz" xvalue="24" />
+                <dimension name="grad" xvalue="80" />
+                <dimension name="xtra" xvalue="450" />
+            </location>
+        </source>
+        <source familyname="Adsworth" filename="Adsworth-GRADmin.ufo" stylename="GRADmin">
+            <location>
+                <dimension name="opsz" xvalue="24" />
+                <dimension name="grad" xvalue="20" />
+                <dimension name="xtra" xvalue="450" />
+            </location>
+        </source>
+        <source familyname="Adsworth" filename="Adsworth-GRADmax.ufo" stylename="GRADmax">
+            <location>
+                <dimension name="opsz" xvalue="24" />
+                <dimension name="grad" xvalue="240" />
+                <dimension name="xtra" xvalue="450" />
+            </location>
+        </source>
+        <source familyname="Adsworth" filename="Adsworth-opszmax.ufo" stylename="opszmax">
+            <location>
+                <dimension name="opsz" xvalue="72" />
+                <dimension name="grad" xvalue="80" />
+                <dimension name="xtra" xvalue="450" />
+            </location>
+        </source>
+        <source familyname="Adsworth" filename="Adsworth-opszmin.ufo" stylename="opszmin">
+            <location>
+                <dimension name="opsz" xvalue="8" />
+                <dimension name="grad" xvalue="80" />
+                <dimension name="xtra" xvalue="450" />
+            </location>
+        </source>
+    </sources>
+    <instances>
+        <instance familyname="Adsworth" filename="Adsworth-8PTGXT.ufo&#10;Adsworth-8PT G XT&#10;" stylename="Style_1">
+            <location>
+                <dimension name="opsz" xvalue="8" />
+                <dimension name="grad" xvalue="80" />
+                <dimension name="xtra" xvalue="450" />
+            </location>
+            <kerning />
+            <info />
+        </instance>
+        <instance familyname="Adsworth" filename="Adsworth-8PTGXT1.ufo" stylename="Style_2">
+            <location>
+                <dimension name="opsz" xvalue="8" />
+                <dimension name="grad" xvalue="80" />
+                <dimension name="xtra" xvalue="635" />
+            </location>
+            <kerning />
+            <info />
+        </instance>
+        <instance familyname="Adsworth" filename="Adsworth-8PTGXT0.ufo" stylename="Style_3">
+            <location>
+                <dimension name="opsz" xvalue="8" />
+                <dimension name="grad" xvalue="80" />
+                <dimension name="xtra" xvalue="220" />
+            </location>
+            <kerning />
+            <info />
+        </instance>
+        <instance familyname="Adsworth" filename="Adsworth-8PTG1XT.ufo" stylename="Style_4">
+            <location>
+                <dimension name="opsz" xvalue="8" />
+                <dimension name="grad" xvalue="240" />
+                <dimension name="xtra" xvalue="450" />
+            </location>
+            <kerning />
+            <info />
+        </instance>
+        <instance familyname="Adsworth" filename="Adsworth-8PTG0XT.ufo" stylename="Style_5">
+            <location>
+                <dimension name="opsz" xvalue="8" />
+                <dimension name="grad" xvalue="20" />
+                <dimension name="xtra" xvalue="450" />
+            </location>
+            <kerning />
+            <info />
+        </instance>
+        <instance familyname="Adsworth" filename="Adsworth-8PTG0XT1.ufo" stylename="Style_6">
+            <location>
+                <dimension name="opsz" xvalue="8" />
+                <dimension name="grad" xvalue="20" />
+                <dimension name="xtra" xvalue="635" />
+            </location>
+            <kerning />
+            <info />
+        </instance>
+        <instance familyname="Adsworth" filename="Adsworth-8PTG1XT1.ufo" stylename="Style_7">
+            <location>
+                <dimension name="opsz" xvalue="8" />
+                <dimension name="grad" xvalue="240" />
+                <dimension name="xtra" xvalue="635" />
+            </location>
+            <kerning />
+            <info />
+        </instance>
+        <instance familyname="Adsworth" filename="Adsworth-8PTG0XT0.ufo" stylename="Style_8">
+            <location>
+                <dimension name="opsz" xvalue="8" />
+                <dimension name="grad" xvalue="20" />
+                <dimension name="xtra" xvalue="220" />
+            </location>
+            <kerning />
+            <info />
+        </instance>
+        <instance familyname="Adsworth" filename="Adsworth-8PTG1XT0.ufo" stylename="Style_9">
+            <location>
+                <dimension name="opsz" xvalue="8" />
+                <dimension name="grad" xvalue="240" />
+                <dimension name="xtra" xvalue="220" />
+            </location>
+            <kerning />
+            <info />
+        </instance>
+    </instances>
+</designspace>

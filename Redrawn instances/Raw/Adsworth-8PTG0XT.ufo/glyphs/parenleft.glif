@@ -1,0 +1,15 @@
+<glyph name="parenleft" format="2">
+  <advance width="748.0"/>
+  <outline>
+    <contour>
+      <point x="545.0" y="-357.0" type="line"/>
+      <point x="121.0" y="102.0"/>
+      <point x="122.0" y="1096.0"/>
+      <point x="529.0" y="1551.0" type="qcurve"/>
+      <point x="648.0" y="1451.0" type="line"/>
+      <point x="286.0" y="1026.0"/>
+      <point x="291.0" y="169.0"/>
+      <point x="668.0" y="-260.0" type="qcurve"/>
+    </contour>
+  </outline>
+</glyph>

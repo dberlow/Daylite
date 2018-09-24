@@ -1,0 +1,17 @@
+<glyph name="L" format="2">
+  <advance width="797"/>
+  <outline>
+    <contour>
+      <point x="60.0" y="0.0" type="line"/>
+      <point x="60.0" y="1500.0" type="line"/>
+      <point x="495.0" y="1500.0" type="line"/>
+      <point x="495.0" y="0.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="794.0" y="0.0" type="line"/>
+      <point x="380.0" y="0.0" type="line"/>
+      <point x="380.0" y="405.0" type="line"/>
+      <point x="794.0" y="405.0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,38 @@
+<glyph name="semicolon" format="2">
+  <advance width="847.0"/>
+  <outline>
+    <contour>
+      <point x="428.0" y="697.0" type="line" smooth="yes"/>
+      <point x="518.0" y="697.0"/>
+      <point x="620.0" y="795.0"/>
+      <point x="620.0" y="875.0" type="qcurve" smooth="yes"/>
+      <point x="620.0" y="886.0" type="line" smooth="yes"/>
+      <point x="620.0" y="966.0"/>
+      <point x="520.0" y="1066.0"/>
+      <point x="428.0" y="1066.0" type="qcurve" smooth="yes"/>
+      <point x="425.0" y="1066.0" type="line" smooth="yes"/>
+      <point x="340.0" y="1066.0"/>
+      <point x="243.0" y="966.0"/>
+      <point x="243.0" y="886.0" type="qcurve" smooth="yes"/>
+      <point x="243.0" y="875.0" type="line" smooth="yes"/>
+      <point x="243.0" y="794.0"/>
+      <point x="338.0" y="697.0"/>
+      <point x="425.0" y="697.0" type="qcurve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="57.0" y="-79.0" type="line"/>
+      <point x="251.0" y="220.0" type="line" smooth="yes"/>
+      <point x="274.0" y="253.0"/>
+      <point x="368.0" y="334.0"/>
+      <point x="429.0" y="334.0" type="qcurve" smooth="yes"/>
+      <point x="440.0" y="334.0" type="line" smooth="yes"/>
+      <point x="510.0" y="334.0"/>
+      <point x="611.0" y="238.0"/>
+      <point x="611.0" y="190.0" type="qcurve" smooth="yes"/>
+      <point x="611.0" y="182.0" type="line" smooth="yes"/>
+      <point x="611.0" y="143.0"/>
+      <point x="269.0" y="-90.0"/>
+      <point x="159.0" y="-164.0" type="qcurve"/>
+    </contour>
+  </outline>
+</glyph>

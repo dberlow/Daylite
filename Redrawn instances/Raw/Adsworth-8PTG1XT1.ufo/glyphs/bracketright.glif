@@ -1,0 +1,23 @@
+<glyph name="bracketright" format="2">
+  <advance width="1040.0"/>
+  <outline>
+    <contour>
+      <point x="912.0" y="-280.0" type="line"/>
+      <point x="361.0" y="-280.0" type="line"/>
+      <point x="361.0" y="1500.0" type="line"/>
+      <point x="912.0" y="1500.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="-106.0" y="-280.0" type="line"/>
+      <point x="-106.0" y="125.0" type="line"/>
+      <point x="581.0" y="125.0" type="line"/>
+      <point x="581.0" y="-280.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="-106.0" y="1095.0" type="line"/>
+      <point x="-106.0" y="1500.0" type="line"/>
+      <point x="586.0" y="1500.0" type="line"/>
+      <point x="586.0" y="1095.0" type="line"/>
+    </contour>
+  </outline>
+</glyph>
