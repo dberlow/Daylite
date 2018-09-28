@@ -1,0 +1,311 @@
+<?xml version='1.0' encoding='utf-8'?>
+<designspace format="4.0">
+    <axes>
+        <axis default="72" maximum="24" minimum="8" name="opsz" tag="opsz">
+            <labelname xml:lang="en">Optical Size</labelname>
+        </axis>
+        <axis default="240" maximum="80" minimum="20" name="GRAD" tag="GRAD">
+            <labelname xml:lang="en">Grade</labelname>
+        </axis>
+        <axis default="635" maximum="450" minimum="220" name="XTRA" tag="XTRA">
+            <labelname xml:lang="en">X Transparent</labelname>
+        </axis>
+    </axes>
+    <sources>
+        <source familyname="Adsworth" filename="Sources/Adsworth-XTRAmax.ufo" name="Adsworth-XTRAmax.ufo" stylename="XTRAmax">
+            <location>
+                <dimension name="opsz" xvalue="24" />
+                <dimension name="GRAD" xvalue="80" />
+                <dimension name="XTRA" xvalue="635" />
+            </location>
+        </source>
+        <source familyname="Adsworth" filename="Sources/Adsworth-XTRAmin.ufo" name="Adsworth-XTRAmin.ufo" stylename="XTRAmin">
+            <location>
+                <dimension name="opsz" xvalue="24" />
+                <dimension name="GRAD" xvalue="80" />
+                <dimension name="XTRA" xvalue="220" />
+            </location>
+        </source>
+        <source familyname="Adsworth" filename="Sources/Adsworth-Regular.ufo" name="Adsworth-Regular.ufo" stylename="Regular">
+            <info copy="1" />
+            <location>
+                <dimension name="opsz" xvalue="24" />
+                <dimension name="GRAD" xvalue="80" />
+                <dimension name="XTRA" xvalue="450" />
+            </location>
+        </source>
+        <source familyname="Adsworth" filename="Sources/Adsworth-GRADmin.ufo" name="Adsworth-GRADmin.ufo" stylename="GRADmin">
+            <location>
+                <dimension name="opsz" xvalue="24" />
+                <dimension name="GRAD" xvalue="20" />
+                <dimension name="XTRA" xvalue="450" />
+            </location>
+        </source>
+        <source familyname="Adsworth" filename="Sources/Adsworth-GRADmax.ufo" name="Adsworth-GRADmax.ufo" stylename="GRADmax">
+            <location>
+                <dimension name="opsz" xvalue="24" />
+                <dimension name="GRAD" xvalue="240" />
+                <dimension name="XTRA" xvalue="450" />
+            </location>
+        </source>
+        <source familyname="Adsworth" filename="Sources/Adsworth-opszmax.ufo" name="Adsworth-opszmax.ufo" stylename="opszmax">
+            <location>
+                <dimension name="opsz" xvalue="72" />
+                <dimension name="GRAD" xvalue="80" />
+                <dimension name="XTRA" xvalue="450" />
+            </location>
+        </source>
+        <source familyname="Adsworth" filename="Sources/Adsworth-opszmin.ufo" name="Adsworth-opszmin.ufo" stylename="opszmin">
+            <location>
+                <dimension name="opsz" xvalue="8" />
+                <dimension name="GRAD" xvalue="80" />
+                <dimension name="XTRA" xvalue="450" />
+            </location>
+        </source>
+    </sources>
+    <instances>
+        <instance familyname="Adsworth" filename="instances/Adsworth-24PT G XT.ufo" postscriptfontname="Adsworth-24PTGXT" stylemapfamilyname="Adsworth 24PT G XT" stylemapstylename="regular" stylename="24PT G XT">
+            <location>
+                <dimension name="opsz" xvalue="24" />
+                <dimension name="GRAD" xvalue="80" />
+                <dimension name="XTRA" xvalue="450" />
+            </location>
+            <kerning />
+            <info />
+        </instance>
+        <instance familyname="Adsworth" filename="instances/Adsworth-24PT G XT0.ufo" postscriptfontname="Adsworth-24PTGXT0" stylemapfamilyname="Adsworth 24PT G XT0" stylemapstylename="regular" stylename="24PT G XT0">
+            <location>
+                <dimension name="opsz" xvalue="24" />
+                <dimension name="GRAD" xvalue="80" />
+                <dimension name="XTRA" xvalue="220" />
+            </location>
+            <kerning />
+            <info />
+        </instance>
+        <instance familyname="Adsworth" filename="instances/Adsworth-24PT G XT1.ufo" postscriptfontname="Adsworth-24PTGXT1" stylemapfamilyname="Adsworth 24PT G XT1" stylemapstylename="regular" stylename="24PT G XT1">
+            <location>
+                <dimension name="opsz" xvalue="24" />
+                <dimension name="GRAD" xvalue="80" />
+                <dimension name="XTRA" xvalue="635" />
+            </location>
+            <kerning />
+            <info />
+        </instance>
+        <instance familyname="Adsworth" filename="instances/Adsworth-24PT G0 XT.ufo" postscriptfontname="Adsworth-24PTG0XT" stylemapfamilyname="Adsworth 24PT G0 XT" stylemapstylename="regular" stylename="24PT G0 XT">
+            <location>
+                <dimension name="opsz" xvalue="24" />
+                <dimension name="GRAD" xvalue="20" />
+                <dimension name="XTRA" xvalue="450" />
+            </location>
+            <kerning />
+            <info />
+        </instance>
+        <instance familyname="Adsworth" filename="instances/Adsworth-24PT G0 XT0.ufo" postscriptfontname="Adsworth-24PTG0XT0" stylemapfamilyname="Adsworth 24PT G0 XT0" stylemapstylename="regular" stylename="24PT G0 XT0">
+            <location>
+                <dimension name="opsz" xvalue="24" />
+                <dimension name="GRAD" xvalue="20" />
+                <dimension name="XTRA" xvalue="220" />
+            </location>
+            <kerning />
+            <info />
+        </instance>
+        <instance familyname="Adsworth" filename="instances/Adsworth-24PT G0 XT1.ufo" postscriptfontname="Adsworth-24PTG0XT1" stylemapfamilyname="Adsworth 24PT G0 XT1" stylemapstylename="regular" stylename="24PT G0 XT1">
+            <location>
+                <dimension name="opsz" xvalue="24" />
+                <dimension name="GRAD" xvalue="20" />
+                <dimension name="XTRA" xvalue="635" />
+            </location>
+            <kerning />
+            <info />
+        </instance>
+        <instance familyname="Adsworth" filename="instances/Adsworth-24PT G1 XT.ufo" postscriptfontname="Adsworth-24PTG1XT" stylemapfamilyname="Adsworth 24PT G1 XT" stylemapstylename="regular" stylename="24PT G1 XT">
+            <location>
+                <dimension name="opsz" xvalue="24" />
+                <dimension name="GRAD" xvalue="240" />
+                <dimension name="XTRA" xvalue="450" />
+            </location>
+            <kerning />
+            <info />
+        </instance>
+        <instance familyname="Adsworth" filename="instances/Adsworth-24PT G1 XT0.ufo" postscriptfontname="Adsworth-24PTG1XT0" stylemapfamilyname="Adsworth 24PT G1 XT0" stylemapstylename="regular" stylename="24PT G1 XT0">
+            <location>
+                <dimension name="opsz" xvalue="24" />
+                <dimension name="GRAD" xvalue="240" />
+                <dimension name="XTRA" xvalue="220" />
+            </location>
+            <kerning />
+            <info />
+        </instance>
+        <instance familyname="Adsworth" filename="instances/Adsworth-24PT G1 XT1.ufo" postscriptfontname="Adsworth-24PTG1XT1" stylemapfamilyname="Adsworth 24PT G1 XT1" stylemapstylename="regular" stylename="24PT G1 XT1">
+            <location>
+                <dimension name="opsz" xvalue="24" />
+                <dimension name="GRAD" xvalue="240" />
+                <dimension name="XTRA" xvalue="635" />
+            </location>
+            <kerning />
+            <info />
+        </instance>
+        <instance familyname="Adsworth" filename="instances/Adsworth-72PT G XT.ufo" postscriptfontname="Adsworth-72PTGXT" stylemapfamilyname="Adsworth 72PT G XT" stylemapstylename="regular" stylename="72PT G XT">
+            <location>
+                <dimension name="opsz" xvalue="72" />
+                <dimension name="GRAD" xvalue="80" />
+                <dimension name="XTRA" xvalue="450" />
+            </location>
+            <kerning />
+            <info />
+        </instance>
+        <instance familyname="Adsworth" filename="instances/Adsworth-72PT G XT0.ufo" postscriptfontname="Adsworth-72PTGXT0" stylemapfamilyname="Adsworth 72PT G XT0" stylemapstylename="regular" stylename="72PT G XT0">
+            <location>
+                <dimension name="opsz" xvalue="72" />
+                <dimension name="GRAD" xvalue="80" />
+                <dimension name="XTRA" xvalue="220" />
+            </location>
+            <kerning />
+            <info />
+        </instance>
+        <instance familyname="Adsworth" filename="instances/Adsworth-72PT G XT1.ufo" postscriptfontname="Adsworth-72PTGXT1" stylemapfamilyname="Adsworth 72PT G XT1" stylemapstylename="regular" stylename="72PT G XT1">
+            <location>
+                <dimension name="opsz" xvalue="72" />
+                <dimension name="GRAD" xvalue="80" />
+                <dimension name="XTRA" xvalue="635" />
+            </location>
+            <kerning />
+            <info />
+        </instance>
+        <instance familyname="Adsworth" filename="instances/Adsworth-72PT G0 XT.ufo" postscriptfontname="Adsworth-72PTG0XT" stylemapfamilyname="Adsworth 72PT G0 XT" stylemapstylename="regular" stylename="72PT G0 XT">
+            <location>
+                <dimension name="opsz" xvalue="72" />
+                <dimension name="GRAD" xvalue="20" />
+                <dimension name="XTRA" xvalue="450" />
+            </location>
+            <kerning />
+            <info />
+        </instance>
+        <instance familyname="Adsworth" filename="instances/Adsworth-72PT G0 XT0.ufo" postscriptfontname="Adsworth-72PTG0XT0" stylemapfamilyname="Adsworth 72PT G0 XT0" stylemapstylename="regular" stylename="72PT G0 XT0">
+            <location>
+                <dimension name="opsz" xvalue="72" />
+                <dimension name="GRAD" xvalue="20" />
+                <dimension name="XTRA" xvalue="220" />
+            </location>
+            <kerning />
+            <info />
+        </instance>
+        <instance familyname="Adsworth" filename="instances/Adsworth-72PT G0 XT1.ufo" postscriptfontname="Adsworth-72PTG0XT1" stylemapfamilyname="Adsworth 72PT G0 XT1" stylemapstylename="regular" stylename="72PT G0 XT1">
+            <location>
+                <dimension name="opsz" xvalue="72" />
+                <dimension name="GRAD" xvalue="20" />
+                <dimension name="XTRA" xvalue="635" />
+            </location>
+            <kerning />
+            <info />
+        </instance>
+        <instance familyname="Adsworth" filename="instances/Adsworth-72PT G1 XT.ufo" postscriptfontname="Adsworth-72PTG1XT" stylemapfamilyname="Adsworth 72PT G1 XT" stylemapstylename="regular" stylename="72PT G1 XT">
+            <location>
+                <dimension name="opsz" xvalue="72" />
+                <dimension name="GRAD" xvalue="240" />
+                <dimension name="XTRA" xvalue="450" />
+            </location>
+            <kerning />
+            <info />
+        </instance>
+        <instance familyname="Adsworth" filename="instances/Adsworth-72PT G1 XT0.ufo" postscriptfontname="Adsworth-72PTG1XT0" stylemapfamilyname="Adsworth 72PT G1 XT0" stylemapstylename="regular" stylename="72PT G1 XT0">
+            <location>
+                <dimension name="opsz" xvalue="72" />
+                <dimension name="GRAD" xvalue="240" />
+                <dimension name="XTRA" xvalue="220" />
+            </location>
+            <kerning />
+            <info />
+        </instance>
+        <instance familyname="Adsworth" filename="instances/Adsworth-72PT G1 XT1.ufo" postscriptfontname="Adsworth-72PTG1XT1" stylemapfamilyname="Adsworth 72PT G1 XT1" stylemapstylename="regular" stylename="72PT G1 XT1">
+            <location>
+                <dimension name="opsz" xvalue="72" />
+                <dimension name="GRAD" xvalue="240" />
+                <dimension name="XTRA" xvalue="635" />
+            </location>
+            <kerning />
+            <info />
+        </instance>
+        <instance familyname="Adsworth" filename="instances/Adsworth-8PT G XT.ufo" postscriptfontname="Adsworth-8PTGXT" stylemapfamilyname="Adsworth 8PT G XT" stylemapstylename="regular" stylename="8PT G XT">
+            <location>
+                <dimension name="opsz" xvalue="8" />
+                <dimension name="GRAD" xvalue="80" />
+                <dimension name="XTRA" xvalue="450" />
+            </location>
+            <kerning />
+            <info />
+        </instance>
+        <instance familyname="Adsworth" filename="instances/Adsworth-8PT G XT0.ufo" postscriptfontname="Adsworth-8PTGXT0" stylemapfamilyname="Adsworth 8PT G XT0" stylemapstylename="regular" stylename="8PT G XT0">
+            <location>
+                <dimension name="opsz" xvalue="8" />
+                <dimension name="GRAD" xvalue="80" />
+                <dimension name="XTRA" xvalue="220" />
+            </location>
+            <kerning />
+            <info />
+        </instance>
+        <instance familyname="Adsworth" filename="instances/Adsworth-8PT G XT1.ufo" postscriptfontname="Adsworth-8PTGXT1" stylemapfamilyname="Adsworth 8PT G XT1" stylemapstylename="regular" stylename="8PT G XT1">
+            <location>
+                <dimension name="opsz" xvalue="8" />
+                <dimension name="GRAD" xvalue="80" />
+                <dimension name="XTRA" xvalue="635" />
+            </location>
+            <kerning />
+            <info />
+        </instance>
+        <instance familyname="Adsworth" filename="instances/Adsworth-8PT G0 XT.ufo" postscriptfontname="Adsworth-8PTG0XT" stylemapfamilyname="Adsworth 8PT G0 XT" stylemapstylename="regular" stylename="8PT G0 XT">
+            <location>
+                <dimension name="opsz" xvalue="8" />
+                <dimension name="GRAD" xvalue="20" />
+                <dimension name="XTRA" xvalue="450" />
+            </location>
+            <kerning />
+            <info />
+        </instance>
+        <instance familyname="Adsworth" filename="instances/Adsworth-8PT G0 XT0.ufo" postscriptfontname="Adsworth-8PTG0XT0" stylemapfamilyname="Adsworth 8PT G0 XT0" stylemapstylename="regular" stylename="8PT G0 XT0">
+            <location>
+                <dimension name="opsz" xvalue="8" />
+                <dimension name="GRAD" xvalue="20" />
+                <dimension name="XTRA" xvalue="220" />
+            </location>
+            <kerning />
+            <info />
+        </instance>
+        <instance familyname="Adsworth" filename="instances/Adsworth-8PT G0 XT1.ufo" postscriptfontname="Adsworth-8PTG0XT1" stylemapfamilyname="Adsworth 8PT G0 XT1" stylemapstylename="regular" stylename="8PT G0 XT1">
+            <location>
+                <dimension name="opsz" xvalue="8" />
+                <dimension name="GRAD" xvalue="20" />
+                <dimension name="XTRA" xvalue="635" />
+            </location>
+            <kerning />
+            <info />
+        </instance>
+        <instance familyname="Adsworth" filename="instances/Adsworth-8PT G1 XT.ufo" postscriptfontname="Adsworth-8PTG1XT" stylemapfamilyname="Adsworth 8PT G1 XT" stylemapstylename="regular" stylename="8PT G1 XT">
+            <location>
+                <dimension name="opsz" xvalue="8" />
+                <dimension name="GRAD" xvalue="240" />
+                <dimension name="XTRA" xvalue="450" />
+            </location>
+            <kerning />
+            <info />
+        </instance>
+        <instance familyname="Adsworth" filename="instances/Adsworth-8PT G1 XT0.ufo" postscriptfontname="Adsworth-8PTG1XT0" stylemapfamilyname="Adsworth 8PT G1 XT0" stylemapstylename="regular" stylename="8PT G1 XT0">
+            <location>
+                <dimension name="opsz" xvalue="8" />
+                <dimension name="GRAD" xvalue="240" />
+                <dimension name="XTRA" xvalue="220" />
+            </location>
+            <kerning />
+            <info />
+        </instance>
+        <instance familyname="Adsworth" filename="instances/Adsworth-8PT G1 XT1.ufo" postscriptfontname="Adsworth-8PTG1XT1" stylemapfamilyname="Adsworth 8PT G1 XT1" stylemapstylename="regular" stylename="8PT G1 XT1">
+            <location>
+                <dimension name="opsz" xvalue="8" />
+                <dimension name="GRAD" xvalue="240" />
+                <dimension name="XTRA" xvalue="635" />
+            </location>
+            <kerning />
+            <info />
+        </instance>
+    </instances>
+</designspace>
