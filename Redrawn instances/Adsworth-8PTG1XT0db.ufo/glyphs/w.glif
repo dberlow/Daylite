@@ -1,20 +1,20 @@
 <glyph name="w" format="2">
-  <advance width="1082"/>
+  <advance width="1142"/>
   <outline>
     <contour>
-      <point x="148.0" y="1.0" type="line"/>
-      <point x="-50.0" y="1041.0" type="line"/>
-      <point x="415.0" y="1041.0" type="line"/>
-      <point x="411.0" y="818.0" type="line"/>
-      <point x="336.0" y="1041.0" type="line"/>
-      <point x="788.0" y="1041.0" type="line"/>
-      <point x="759.0" y="818.0" type="line"/>
-      <point x="707.0" y="1041.0" type="line"/>
-      <point x="1132.0" y="1041.0" type="line"/>
-      <point x="970.0" y="1.0" type="line"/>
-      <point x="530.0" y="1.0" type="line"/>
-      <point x="556.0" y="341.0" type="line"/>
-      <point x="589.0" y="1.0" type="line"/>
+      <point x="118.0" y="0.0" type="line"/>
+      <point x="-40.0" y="1040.0" type="line"/>
+      <point x="314.0" y="1040.0" type="line"/>
+      <point x="369.0" y="583.0" type="line"/>
+      <point x="455.0" y="1040.0" type="line"/>
+      <point x="735.0" y="1040.0" type="line"/>
+      <point x="808.0" y="583.0" type="line"/>
+      <point x="873.0" y="1040.0" type="line"/>
+      <point x="1182.0" y="1040.0" type="line"/>
+      <point x="1020.0" y="0.0" type="line"/>
+      <point x="639.0" y="0.0" type="line"/>
+      <point x="570.0" y="450.0" type="line"/>
+      <point x="500.0" y="0.0" type="line"/>
     </contour>
   </outline>
 </glyph>

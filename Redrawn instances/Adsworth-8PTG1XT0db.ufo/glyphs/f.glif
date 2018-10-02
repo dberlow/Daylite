@@ -4,8 +4,8 @@
     <contour>
       <point x="489.0" y="737.0" type="line"/>
       <point x="-1.0" y="737.0" type="line"/>
-      <point x="-1.0" y="1030.0" type="line"/>
-      <point x="489.0" y="1030.0" type="line"/>
+      <point x="-1.0" y="1040.0" type="line"/>
+      <point x="489.0" y="1040.0" type="line"/>
     </contour>
     <contour>
       <point x="427.0" y="1205.0" type="qcurve" smooth="yes"/>
