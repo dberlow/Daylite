@@ -1,5 +1,5 @@
 <glyph name="W" format="2">
-  <advance width="1169"/>
+  <advance width="1170"/>
   <outline>
     <contour>
       <point x="245" y="0" type="line"/>
@@ -9,8 +9,8 @@
       <point x="491" y="1500" type="line"/>
       <point x="667" y="1500" type="line"/>
       <point x="854" y="390" type="line"/>
-      <point x="990" y="1500" type="line"/>
-      <point x="1149" y="1500" type="line"/>
+      <point x="991" y="1500" type="line"/>
+      <point x="1150" y="1500" type="line"/>
       <point x="953" y="0" type="line"/>
       <point x="780" y="0" type="line"/>
       <point x="593" y="1056" type="line"/>

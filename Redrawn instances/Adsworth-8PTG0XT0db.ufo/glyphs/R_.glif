@@ -1,5 +1,5 @@
 <glyph name="R" format="2">
-  <advance width="981"/>
+  <advance width="995"/>
   <outline>
     <contour>
       <point x="200" y="0" type="line"/>
@@ -30,9 +30,9 @@
       <point x="706" y="626"/>
     </contour>
     <contour>
-      <point x="704" y="692" type="line"/>
-      <point x="933" y="0" type="line"/>
-      <point x="724" y="0" type="line"/>
+      <point x="714" y="692" type="line"/>
+      <point x="995" y="0" type="line"/>
+      <point x="786" y="0" type="line"/>
       <point x="535" y="680" type="line"/>
     </contour>
   </outline>
