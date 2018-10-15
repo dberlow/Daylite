@@ -1,17 +1,17 @@
 <glyph name="z" format="2">
-  <advance width="676"/>
+  <advance width="714"/>
   <outline>
     <contour>
-      <point x="660" y="1" type="line"/>
+      <point x="690" y="1" type="line"/>
       <point x="29" y="1" type="line"/>
       <point x="24" y="99" type="line"/>
-      <point x="414" y="889" type="line"/>
+      <point x="444" y="889" type="line"/>
       <point x="30" y="889" type="line"/>
       <point x="30" y="1040" type="line"/>
-      <point x="639" y="1040" type="line"/>
-      <point x="639" y="967" type="line"/>
+      <point x="669" y="1040" type="line"/>
+      <point x="669" y="967" type="line"/>
       <point x="222" y="151" type="line"/>
-      <point x="660" y="151" type="line"/>
+      <point x="690" y="151" type="line"/>
     </contour>
   </outline>
 </glyph>
