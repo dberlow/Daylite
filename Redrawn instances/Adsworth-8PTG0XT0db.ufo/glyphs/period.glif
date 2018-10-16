@@ -1,23 +1,23 @@
 <glyph name="period" format="2">
-  <advance width="695"/>
+  <advance width="590"/>
   <outline>
     <contour>
-      <point x="346" y="-10" type="line" smooth="yes"/>
-      <point x="412" y="-10"/>
-      <point x="510" y="78"/>
-      <point x="510" y="151" type="qcurve" smooth="yes"/>
-      <point x="510" y="180" type="line" smooth="yes"/>
-      <point x="510" y="255"/>
-      <point x="417" y="341"/>
-      <point x="346" y="341" type="qcurve" smooth="yes"/>
-      <point x="343" y="341" type="line" smooth="yes"/>
-      <point x="279" y="341"/>
-      <point x="185" y="255"/>
-      <point x="185" y="180" type="qcurve" smooth="yes"/>
-      <point x="185" y="151" type="line" smooth="yes"/>
-      <point x="185" y="73"/>
-      <point x="277" y="-10"/>
-      <point x="343" y="-10" type="qcurve" smooth="yes"/>
+      <point x="294" y="-10" type="line" smooth="yes"/>
+      <point x="354" y="-10"/>
+      <point x="444" y="70"/>
+      <point x="444" y="137" type="qcurve" smooth="yes"/>
+      <point x="444" y="163" type="line" smooth="yes"/>
+      <point x="444" y="231"/>
+      <point x="359" y="310"/>
+      <point x="294" y="310" type="qcurve" smooth="yes"/>
+      <point x="291" y="310" type="line" smooth="yes"/>
+      <point x="232" y="310"/>
+      <point x="146" y="231"/>
+      <point x="146" y="163" type="qcurve" smooth="yes"/>
+      <point x="146" y="137" type="line" smooth="yes"/>
+      <point x="146" y="66"/>
+      <point x="230" y="-10"/>
+      <point x="291" y="-10" type="qcurve" smooth="yes"/>
     </contour>
   </outline>
 </glyph>
