@@ -4,18 +4,18 @@
     <contour>
       <point x="372" y="-14.0" type="line" smooth="yes"/>
       <point x="221" y="-14.0"/>
-      <point x="24" y="167.0"/>
-      <point x="24" y="339.0" type="qcurve" smooth="yes"/>
-      <point x="24" y="1153.0" type="line" smooth="yes"/>
-      <point x="24" y="1335.0"/>
+      <point x="14" y="167"/>
+      <point x="14" y="339.0" type="qcurve" smooth="yes"/>
+      <point x="14" y="1153.0" type="line" smooth="yes"/>
+      <point x="14" y="1335"/>
       <point x="219" y="1516.0"/>
       <point x="370" y="1516.0" type="qcurve" smooth="yes"/>
       <point x="416" y="1516.0" type="line" smooth="yes"/>
       <point x="559" y="1516.0"/>
-      <point x="761" y="1335.0"/>
-      <point x="761" y="1153.0" type="qcurve" smooth="yes"/>
-      <point x="761" y="339.0" type="line" smooth="yes"/>
-      <point x="761" y="157.0"/>
+      <point x="771" y="1335"/>
+      <point x="771" y="1153.0" type="qcurve" smooth="yes"/>
+      <point x="771" y="339.0" type="line" smooth="yes"/>
+      <point x="771" y="157"/>
       <point x="561" y="-14.0"/>
       <point x="418" y="-14.0" type="qcurve" smooth="yes"/>
     </contour>
