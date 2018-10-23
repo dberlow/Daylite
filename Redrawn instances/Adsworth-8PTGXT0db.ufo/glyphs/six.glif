@@ -1,19 +1,19 @@
 <glyph name="six" format="2">
-  <advance width="780"/>
+  <advance width="814"/>
   <unicode hex="0036"/>
   <outline>
     <contour>
       <point x="338" y="493" type="qcurve" smooth="yes"/>
       <point x="338.0" y="312" type="line" smooth="yes"/>
       <point x="338" y="257"/>
-      <point x="353" y="198"/>
-      <point x="383.0" y="198" type="qcurve" smooth="yes"/>
-      <point x="406" y="198" type="line" smooth="yes"/>
-      <point x="436" y="198"/>
-      <point x="459" y="257"/>
-      <point x="459" y="339" type="qcurve" smooth="yes"/>
-      <point x="459" y="575" type="line" smooth="yes"/>
-      <point x="459" y="683"/>
+      <point x="373" y="198"/>
+      <point x="403.0" y="198" type="qcurve" smooth="yes"/>
+      <point x="416" y="198" type="line" smooth="yes"/>
+      <point x="446" y="198"/>
+      <point x="471" y="257"/>
+      <point x="471" y="339" type="qcurve" smooth="yes"/>
+      <point x="471" y="575" type="line" smooth="yes"/>
+      <point x="471" y="683"/>
       <point x="437" y="744"/>
       <point x="409" y="744.0" type="qcurve" smooth="yes"/>
       <point x="397.0" y="744" type="line" smooth="yes"/>
@@ -28,10 +28,10 @@
       <point x="447" y="960.0" type="qcurve" smooth="yes"/>
       <point x="471" y="960" type="line" smooth="yes"/>
       <point x="611.0" y="960.0"/>
-      <point x="752" y="757"/>
-      <point x="752" y="592" type="qcurve" smooth="yes"/>
-      <point x="752.0" y="339" type="line" smooth="yes"/>
-      <point x="752" y="194"/>
+      <point x="764" y="757"/>
+      <point x="764" y="592" type="qcurve" smooth="yes"/>
+      <point x="764.0" y="339" type="line" smooth="yes"/>
+      <point x="764" y="194"/>
       <point x="577.0" y="-14.0"/>
       <point x="422.0" y="-14" type="qcurve" smooth="yes"/>
       <point x="397.0" y="-14" type="line" smooth="yes"/>

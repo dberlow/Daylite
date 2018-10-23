@@ -1,14 +1,14 @@
 <glyph name="less" format="2">
-  <advance width="1000"/>
+  <advance width="750"/>
   <outline>
     <contour>
-      <point x="118.0" y="639.0" type="line"/>
-      <point x="118.0" y="769.0" type="line"/>
-      <point x="868.0" y="1166.0" type="line"/>
-      <point x="873.0" y="982.0" type="line"/>
-      <point x="393.0" y="724.0" type="line"/>
-      <point x="873.0" y="494.0" type="line"/>
-      <point x="868.0" y="290.0" type="line"/>
+      <point x="10.0" y="639.0" type="line"/>
+      <point x="10.0" y="769.0" type="line"/>
+      <point x="720.0" y="1166.0" type="line"/>
+      <point x="725.0" y="982.0" type="line"/>
+      <point x="235.0" y="715.0" type="line"/>
+      <point x="725.0" y="484.0" type="line"/>
+      <point x="720.0" y="290.0" type="line"/>
     </contour>
   </outline>
 </glyph>
