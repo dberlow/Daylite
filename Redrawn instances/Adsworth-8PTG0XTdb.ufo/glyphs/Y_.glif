@@ -1,20 +1,20 @@
 <glyph name="Y" format="2">
-  <advance width="1150"/>
+  <advance width="1230"/>
   <outline>
     <contour>
-      <point x="489.0" y="500.0" type="line"/>
-      <point x="-90.0" y="1500.0" type="line"/>
-      <point x="130.0" y="1500.0" type="line"/>
-      <point x="585.0" y="709.0" type="line"/>
-      <point x="1027.0" y="1500.0" type="line"/>
-      <point x="1240.0" y="1500.0" type="line"/>
-      <point x="662.0" y="500.0" type="line"/>
+      <point x="529" y="500" type="line"/>
+      <point x="-50" y="1500" type="line"/>
+      <point x="170" y="1500" type="line"/>
+      <point x="625" y="709" type="line"/>
+      <point x="1067" y="1500" type="line"/>
+      <point x="1280" y="1500" type="line"/>
+      <point x="702" y="500" type="line"/>
     </contour>
     <contour>
-      <point x="478.0" y="0.0" type="line"/>
-      <point x="478.0" y="520.0" type="line"/>
-      <point x="673.0" y="520.0" type="line"/>
-      <point x="673.0" y="0.0" type="line"/>
+      <point x="518" y="0" type="line"/>
+      <point x="518" y="520" type="line"/>
+      <point x="713" y="520" type="line"/>
+      <point x="713" y="0" type="line"/>
     </contour>
   </outline>
 </glyph>
