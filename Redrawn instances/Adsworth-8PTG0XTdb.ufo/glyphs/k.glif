@@ -8,7 +8,7 @@
       <point x="376.0" y="0.0" type="line"/>
     </contour>
     <contour>
-      <point x="685.0" y="552.0" type="line"/>
+      <point x="715.0" y="552.0" type="line"/>
       <point x="358.0" y="212.0" type="line"/>
       <point x="358.0" y="393.0" type="line"/>
       <point x="597.0" y="624.0" type="line"/>
@@ -17,10 +17,10 @@
       <point x="768.0" y="601.0" type="line"/>
     </contour>
     <contour>
-      <point x="741.0" y="695.0" type="line"/>
+      <point x="724.0" y="660.0" type="line"/>
       <point x="1253.0" y="0.0" type="line"/>
       <point x="1054.0" y="0.0" type="line"/>
-      <point x="608.0" y="599.0" type="line"/>
+      <point x="591.0" y="564.0" type="line"/>
     </contour>
   </outline>
 </glyph>
