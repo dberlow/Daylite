@@ -29,10 +29,10 @@
       <point x="662.0" y="972.0" type="qcurve" smooth="yes"/>
       <point x="657.0" y="972.0" type="line" smooth="yes"/>
       <point x="507" y="972"/>
-      <point x="281.0" y="739.0"/>
-      <point x="281.0" y="536.0" type="qcurve" smooth="yes"/>
-      <point x="281.0" y="504.0" type="line" smooth="yes"/>
-      <point x="281.0" y="292.0"/>
+      <point x="276" y="739"/>
+      <point x="276.0" y="536.0" type="qcurve" smooth="yes"/>
+      <point x="276.0" y="504.0" type="line" smooth="yes"/>
+      <point x="276" y="292"/>
       <point x="508" y="101"/>
       <point x="654.0" y="101.0" type="qcurve" smooth="yes"/>
       <point x="666.0" y="101.0" type="line" smooth="yes"/>
