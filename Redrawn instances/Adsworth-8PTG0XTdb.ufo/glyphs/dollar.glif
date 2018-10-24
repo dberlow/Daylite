@@ -55,15 +55,15 @@
     </contour>
     <contour>
       <point x="563.0" y="-130.0" type="line"/>
-      <point x="563.0" y="572.0" type="line"/>
-      <point x="673.0" y="572.0" type="line"/>
+      <point x="563.0" y="772.0" type="line"/>
+      <point x="673.0" y="772.0" type="line"/>
       <point x="673.0" y="-130.0" type="line"/>
     </contour>
     <contour>
-      <point x="563.0" y="1019.0" type="line"/>
+      <point x="563.0" y="819.0" type="line"/>
       <point x="563.0" y="1593.0" type="line"/>
       <point x="673.0" y="1593.0" type="line"/>
-      <point x="673.0" y="1019.0" type="line"/>
+      <point x="673.0" y="819.0" type="line"/>
     </contour>
   </outline>
   <lib>
