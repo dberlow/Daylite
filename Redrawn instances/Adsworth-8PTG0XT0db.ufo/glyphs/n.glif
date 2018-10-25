@@ -4,8 +4,7 @@
     <contour>
       <point x="140" y="0" type="line"/>
       <point x="140" y="1040" type="line"/>
-      <point x="312" y="1040" type="line"/>
-      <point x="326" y="577" type="line"/>
+      <point x="319" y="1040" type="line"/>
       <point x="332" y="0" type="line"/>
     </contour>
     <contour>
