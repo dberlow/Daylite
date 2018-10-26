@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
+<<<<<<< Updated upstream
   <dict>
     <key>ascender</key>
     <integer>1540</integer>
@@ -39,4 +40,44 @@
     <key>xHeight</key>
     <integer>1040</integer>
   </dict>
+=======
+<dict>
+	<key>ascender</key>
+	<integer>1540</integer>
+	<key>capHeight</key>
+	<integer>1500</integer>
+	<key>copyright</key>
+	<string>©2018 The Font Bureau, Inc.</string>
+	<key>descender</key>
+	<integer>-480</integer>
+	<key>familyName</key>
+	<string>Adsworth</string>
+	<key>guidelines</key>
+	<array/>
+	<key>postscriptBlueValues</key>
+	<array/>
+	<key>postscriptFamilyBlues</key>
+	<array/>
+	<key>postscriptFamilyOtherBlues</key>
+	<array/>
+	<key>postscriptFontName</key>
+	<string>Adsworth-8PTGXT1</string>
+	<key>postscriptOtherBlues</key>
+	<array/>
+	<key>postscriptStemSnapH</key>
+	<array/>
+	<key>postscriptStemSnapV</key>
+	<array/>
+	<key>styleMapFamilyName</key>
+	<string>Adsworth 8PT G XT1</string>
+	<key>styleMapStyleName</key>
+	<string>regular</string>
+	<key>styleName</key>
+	<string>8PT G XT1</string>
+	<key>unitsPerEm</key>
+	<real>2000.0</real>
+	<key>xHeight</key>
+	<integer>1040</integer>
+</dict>
+>>>>>>> Stashed changes
 </plist>

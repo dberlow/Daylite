@@ -1,5 +1,5 @@
 <glyph name="E" format="2">
-  <advance width="1414"/>
+  <advance width="1514"/>
   <outline>
     <contour>
       <point x="288" y="0" type="line"/>
@@ -8,22 +8,22 @@
       <point x="484" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="1274" y="724" type="line"/>
-      <point x="364" y="724" type="line"/>
-      <point x="364" y="877" type="line"/>
-      <point x="1274" y="877" type="line"/>
+      <point x="1264" y="716" type="line"/>
+      <point x="364" y="716" type="line"/>
+      <point x="364" y="887" type="line"/>
+      <point x="1264" y="887" type="line"/>
     </contour>
     <contour>
-      <point x="1434" y="1347" type="line"/>
-      <point x="364" y="1347" type="line"/>
+      <point x="1454" y="1327" type="line"/>
+      <point x="364" y="1327" type="line"/>
       <point x="364" y="1500" type="line"/>
-      <point x="1434" y="1500" type="line"/>
+      <point x="1454" y="1500" type="line"/>
     </contour>
     <contour>
-      <point x="1434" y="0" type="line"/>
+      <point x="1454" y="0" type="line"/>
       <point x="364" y="0" type="line"/>
-      <point x="364" y="151" type="line"/>
-      <point x="1434" y="151" type="line"/>
+      <point x="364" y="171" type="line"/>
+      <point x="1454" y="171" type="line"/>
     </contour>
   </outline>
 </glyph>

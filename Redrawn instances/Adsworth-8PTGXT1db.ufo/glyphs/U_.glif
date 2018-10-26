@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="U" format="2">
-  <advance width="1887"/>
+  <advance width="1943"/>
   <unicode hex="0055"/>
   <outline>
     <contour>
@@ -22,8 +21,8 @@
       <point x="951" y="-33" type="qcurve" smooth="yes"/>
       <point x="941" y="-33" type="line" smooth="yes"/>
       <point x="576.0" y="-33"/>
-      <point x="168" y="355.0"/>
-      <point x="168" y="693" type="qcurve" smooth="yes"/>
+      <point x="168" y="315.0"/>
+      <point x="168" y="653" type="qcurve" smooth="yes"/>
     </contour>
   </outline>
 </glyph>
