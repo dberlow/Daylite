@@ -49,6 +49,7 @@
                 <dimension name="x transparent" xvalue="450" />
             </location>
         </source>
+
         <source familyname="Adsworth" filename="Sources/Adsworth-opszmax.ufo" stylename="opszmax">
             <location>
                 <dimension name="optical size" xvalue="72" />
@@ -56,6 +57,7 @@
                 <dimension name="x transparent" xvalue="450" />
             </location>
         </source>
+        <!--
         <source familyname="Adsworth" filename="Sources/Adsworth-opszmin.ufo" stylename="opszmin">
             <location>
                 <dimension name="optical size" xvalue="8" />
@@ -63,6 +65,93 @@
                 <dimension name="x transparent" xvalue="450" />
             </location>
         </source>
+        -->
+        
+        <!-- new stuff 2018-10-26 -->
+        
+    
+
+        <source familyname="Adsworth" filename="Redrawn instances/Adsworth-8PTGXTdb.ufo" stylename="8PTGXT">
+            <location>
+                <dimension name="optical size" xvalue="8" />
+                <dimension name="grade" xvalue="80" />
+                <dimension name="x transparent" xvalue="450" />
+            </location>
+        </source>
+        
+
+        <source familyname="Adsworth" filename="Redrawn instances/Adsworth-8PTGXT0db.ufo" stylename="8PTGXT0">
+            <location>
+                <dimension name="optical size" xvalue="8" />
+                <dimension name="grade" xvalue="80" />
+                <dimension name="x transparent" xvalue="220" />
+            </location>
+        </source>
+        
+
+        <source familyname="Adsworth" filename="Redrawn instances/Adsworth-8PTGXT1db.ufo" stylename="8PTGXT1">
+            <location>
+                <dimension name="optical size" xvalue="8" />
+                <dimension name="grade" xvalue="80" />
+                <dimension name="x transparent" xvalue="635" />
+            </location>
+        </source>
+        
+
+        <source familyname="Adsworth" filename="Redrawn instances/Adsworth-8PTG0XTdb.ufo" stylename="8PTG0XT">
+            <location>
+                <dimension name="optical size" xvalue="8" />
+                <dimension name="grade" xvalue="20" />
+                <dimension name="x transparent" xvalue="450" />
+            </location>
+        </source>
+        
+
+        <source familyname="Adsworth" filename="Redrawn instances/Adsworth-8PTG0XT0db.ufo" stylename="8PTG0XT0">
+            <location>
+                <dimension name="optical size" xvalue="8" />
+                <dimension name="grade" xvalue="20" />
+                <dimension name="x transparent" xvalue="220" />
+            </location>
+        </source>
+        
+
+        <source familyname="Adsworth" filename="Redrawn instances/Adsworth-8PTG0XT1db.ufo" stylename="8PTG0XT1">
+            <location>
+                <dimension name="optical size" xvalue="8" />
+                <dimension name="grade" xvalue="20" />
+                <dimension name="x transparent" xvalue="635" />
+            </location>
+        </source>
+        
+
+        <source familyname="Adsworth" filename="Redrawn instances/Adsworth-8PTG1XTdb.ufo" stylename="8PTG1XT">
+            <location>
+                <dimension name="optical size" xvalue="8" />
+                <dimension name="grade" xvalue="240" />
+                <dimension name="x transparent" xvalue="450" />
+            </location>
+        </source>
+        
+
+        <source familyname="Adsworth" filename="Redrawn instances/Adsworth-8PTG1XT0db.ufo" stylename="8PTG1XT0">
+            <location>
+                <dimension name="optical size" xvalue="8" />
+                <dimension name="grade" xvalue="240" />
+                <dimension name="x transparent" xvalue="220" />
+            </location>
+        </source>
+        
+
+        <source familyname="Adsworth" filename="Redrawn instances/Adsworth-8PTG1XT1db.ufo" stylename="8PTG1XT1">
+            <location>
+                <dimension name="optical size" xvalue="8" />
+                <dimension name="grade" xvalue="240" />
+                <dimension name="x transparent" xvalue="635" />
+            </location>
+        </source>
+        
+
     </sources>
     <instances>
         <instance familyname="Adsworth" filename="instances/Adsworth-8PTG0XT.ufo" stylename="8PTG0XT">
