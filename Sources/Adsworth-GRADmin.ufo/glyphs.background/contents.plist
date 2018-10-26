@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
-<dict>
-	<key>C</key>
-	<string>C_.glif</string>
-	<key>asterisk</key>
-	<string>asterisk.glif</string>
-	<key>asterisk.copy_1</key>
-	<string>asterisk.copy_1.glif</string>
-	<key>equal</key>
-	<string>equal.glif</string>
-	<key>equal.copy_1</key>
-	<string>equal.copy_1.glif</string>
-	<key>plus</key>
-	<string>plus.glif</string>
-	<key>plus.copy_1</key>
-	<string>plus.copy_1.glif</string>
-</dict>
+  <dict>
+    <key>C</key>
+    <string>C_.glif</string>
+    <key>asterisk</key>
+    <string>asterisk.glif</string>
+    <key>asterisk.copy_1</key>
+    <string>asterisk.copy_1.glif</string>
+    <key>equal</key>
+    <string>equal.glif</string>
+    <key>equal.copy_1</key>
+    <string>equal.copy_1.glif</string>
+    <key>plus</key>
+    <string>plus.glif</string>
+    <key>plus.copy_1</key>
+    <string>plus.copy_1.glif</string>
+  </dict>
 </plist>

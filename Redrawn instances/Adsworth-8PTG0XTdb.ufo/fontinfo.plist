@@ -1,36 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
-<dict>
-	<key>ascender</key>
-	<real>1540.0</real>
-	<key>capHeight</key>
-	<real>1500.0</real>
-	<key>copyright</key>
-	<string>©2018 The Font Bureau, Inc.</string>
-	<key>descender</key>
-	<real>-500.0</real>
-	<key>familyName</key>
-	<string>Adsworth</string>
-	<key>guidelines</key>
-	<array/>
-	<key>postscriptBlueValues</key>
-	<array/>
-	<key>postscriptFamilyBlues</key>
-	<array/>
-	<key>postscriptFamilyOtherBlues</key>
-	<array/>
-	<key>postscriptOtherBlues</key>
-	<array/>
-	<key>postscriptStemSnapH</key>
-	<array/>
-	<key>postscriptStemSnapV</key>
-	<array/>
-	<key>styleName</key>
-	<string>8PTG0XTdb</string>
-	<key>unitsPerEm</key>
-	<real>2000.0</real>
-	<key>xHeight</key>
-	<real>1040.0</real>
-</dict>
+  <dict>
+    <key>ascender</key>
+    <real>1540.0</real>
+    <key>capHeight</key>
+    <real>1500.0</real>
+    <key>copyright</key>
+    <string>©2018 The Font Bureau, Inc.</string>
+    <key>descender</key>
+    <real>-500.0</real>
+    <key>familyName</key>
+    <string>Adsworth</string>
+    <key>guidelines</key>
+    <array/>
+    <key>postscriptBlueValues</key>
+    <array/>
+    <key>postscriptFamilyBlues</key>
+    <array/>
+    <key>postscriptFamilyOtherBlues</key>
+    <array/>
+    <key>postscriptOtherBlues</key>
+    <array/>
+    <key>postscriptStemSnapH</key>
+    <array/>
+    <key>postscriptStemSnapV</key>
+    <array/>
+    <key>styleName</key>
+    <string>8PTG0XTdb</string>
+    <key>unitsPerEm</key>
+    <real>2000.0</real>
+    <key>xHeight</key>
+    <real>1040.0</real>
+  </dict>
 </plist>

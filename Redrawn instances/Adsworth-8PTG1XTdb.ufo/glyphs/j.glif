@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="j" format="2">
   <advance width="716"/>
   <unicode hex="006A"/>
@@ -21,12 +22,6 @@
       <point x="651" y="1042" type="line"/>
     </contour>
     <contour>
-      <point x="502" y="640" type="line"/>
-      <point x="10" y="620" type="line"/>
-      <point x="10" y="1022" type="line"/>
-      <point x="502" y="1032" type="line"/>
-    </contour>
-    <contour>
       <point x="399" y="1075" type="line" smooth="yes"/>
       <point x="538" y="1075"/>
       <point x="684" y="1210"/>
@@ -43,6 +38,12 @@
       <point x="117" y="1207"/>
       <point x="258" y="1075"/>
       <point x="393" y="1075" type="qcurve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="502" y="640" type="line"/>
+      <point x="10" y="620" type="line"/>
+      <point x="10" y="1022" type="line"/>
+      <point x="502" y="1032" type="line"/>
     </contour>
   </outline>
 </glyph>
