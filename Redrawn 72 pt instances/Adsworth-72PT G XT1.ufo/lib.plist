@@ -11,6 +11,8 @@
 			<string>characterSet</string>
 		</dict>
 	</array>
+	<key>com.typemytype.robofont.segmentType</key>
+	<string>qcurve</string>
 	<key>public.glyphOrder</key>
 	<array>
 		<string>space</string>
