@@ -3,19 +3,19 @@
   <unicode hex="0059"/>
   <outline>
     <contour>
-      <point x="735" y="500" type="line"/>
-      <point x="0" y="1500" type="line"/>
-      <point x="124" y="1500" type="line"/>
-      <point x="771" y="591" type="line"/>
-      <point x="1421" y="1500" type="line"/>
-      <point x="1550" y="1500" type="line"/>
-      <point x="813" y="500" type="line"/>
+      <point x="780" y="0" type="line"/>
+      <point x="780" y="520" type="line"/>
+      <point x="870" y="520" type="line"/>
+      <point x="870" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="729" y="0" type="line"/>
-      <point x="729" y="570" type="line"/>
-      <point x="819" y="570" type="line"/>
-      <point x="819" y="0" type="line"/>
+      <point x="785" y="460" type="line"/>
+      <point x="-50" y="1500" type="line"/>
+      <point x="67" y="1500" type="line"/>
+      <point x="826" y="551" type="line"/>
+      <point x="1588" y="1500" type="line"/>
+      <point x="1700" y="1500" type="line"/>
+      <point x="863" y="460" type="line"/>
     </contour>
   </outline>
 </glyph>
