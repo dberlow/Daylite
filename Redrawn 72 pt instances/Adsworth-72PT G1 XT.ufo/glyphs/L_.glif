@@ -1,5 +1,5 @@
 <glyph name="L" format="2">
-  <advance width="1068"/>
+  <advance width="1168"/>
   <unicode hex="004C"/>
   <outline>
     <contour>
@@ -9,10 +9,10 @@
       <point x="675" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="1068" y="0" type="line"/>
+      <point x="1168" y="0" type="line"/>
       <point x="362" y="0" type="line"/>
       <point x="362" y="434" type="line"/>
-      <point x="1068" y="434" type="line"/>
+      <point x="1168" y="434" type="line"/>
     </contour>
   </outline>
 </glyph>
